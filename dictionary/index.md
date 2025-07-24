@@ -1,7 +1,7 @@
 ## Stuff
 |
 
-├───(eaglercraft.github.io)[eaglercraft.github.io]
+├───(shadownetworkdevs.github.io/eaglercraft.github.io)[shadownetworkdevs.github.io/eaglercraft.github.io]
 
 │   ├───(about)[eaglercraft.github.io/about]
 

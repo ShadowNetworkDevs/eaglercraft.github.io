@@ -6,4 +6,4 @@ So go away
 
 [game](/game/index.html)
 
-[about](/about)
+[about](/about/index.md)
